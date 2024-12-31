@@ -856,12 +856,12 @@ footer{
 }
 
 .getInTouch{
-    width:300px;
-    height:40px;
+    width:320px;
+    height:30px;
     background-color:#243b55;
     text-align: center;
-    padding-top:0.25rem;
     margin: auto;
+    padding-top: 0.2rem;
     margin-top: 3rem;
     cursor: pointer;
     border-radius: 14px;
